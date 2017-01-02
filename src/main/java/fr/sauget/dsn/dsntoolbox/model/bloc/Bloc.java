@@ -5,6 +5,7 @@
  */
 package fr.sauget.dsn.dsntoolbox.model.bloc;
 
+import fr.sauget.dsn.dsntoolbox.model.rubrique.Rubrique;
 import java.util.Collection;
 
 /**
@@ -13,10 +14,10 @@ import java.util.Collection;
  */
 public class Bloc {
     
-    public BlocType tBloc;
     
     
     public Collection<Bloc> sBlocs;
+    public Collection<Rubrique> rubriques;
     
     
     

@@ -11,5 +11,10 @@ package fr.sauget.dsn.dsntoolbox.model.rubrique;
  */
 public class Rubrique {
     
+ 
+    private final String value;
     
+    public String getValue(){return value;}
+    Rubrique(String val){this.value = val;}
+            
 }
