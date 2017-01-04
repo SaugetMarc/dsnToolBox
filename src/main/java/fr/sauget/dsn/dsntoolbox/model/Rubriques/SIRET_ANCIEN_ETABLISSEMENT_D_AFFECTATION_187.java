@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class SIRET_ANCIEN_ETABLISSEMENT_D_AFFECTATION_187 extends Rubrique { final RubriqueType type = RubriqueType.SIRET_ANCIEN_ETABLISSEMENT_D_AFFECTATION_187;}

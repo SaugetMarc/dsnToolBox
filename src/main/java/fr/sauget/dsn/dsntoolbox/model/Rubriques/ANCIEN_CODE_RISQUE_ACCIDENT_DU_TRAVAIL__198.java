@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ANCIEN_CODE_RISQUE_ACCIDENT_DU_TRAVAIL__198 extends Rubrique { final RubriqueType type = RubriqueType.ANCIEN_CODE_RISQUE_ACCIDENT_DU_TRAVAIL__198;}

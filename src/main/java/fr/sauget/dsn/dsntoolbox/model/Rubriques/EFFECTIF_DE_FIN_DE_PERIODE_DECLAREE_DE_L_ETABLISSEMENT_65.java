@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class EFFECTIF_DE_FIN_DE_PERIODE_DECLAREE_DE_L_ETABLISSEMENT_65 extends Rubrique { final RubriqueType type = RubriqueType.EFFECTIF_DE_FIN_DE_PERIODE_DECLAREE_DE_L_ETABLISSEMENT_65;}

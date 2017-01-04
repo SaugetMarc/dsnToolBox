@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class NOMBRE_DE_MOIS_DE_PREAVIS_UTILISES_DANS_LE_CADRE_DU_CALCUL_CSP_250 extends Rubrique { final RubriqueType type = RubriqueType.NOMBRE_DE_MOIS_DE_PREAVIS_UTILISES_DANS_LE_CADRE_DU_CALCUL_CSP_250;}

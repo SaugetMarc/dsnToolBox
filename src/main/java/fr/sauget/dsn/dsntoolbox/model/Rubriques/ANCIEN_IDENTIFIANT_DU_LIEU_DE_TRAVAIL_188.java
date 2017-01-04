@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ANCIEN_IDENTIFIANT_DU_LIEU_DE_TRAVAIL_188 extends Rubrique { final RubriqueType type = RubriqueType.ANCIEN_IDENTIFIANT_DU_LIEU_DE_TRAVAIL_188;}

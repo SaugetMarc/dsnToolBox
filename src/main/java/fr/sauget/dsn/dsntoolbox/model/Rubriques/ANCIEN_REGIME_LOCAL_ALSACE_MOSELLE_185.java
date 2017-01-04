@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ANCIEN_REGIME_LOCAL_ALSACE_MOSELLE_185 extends Rubrique { final RubriqueType type = RubriqueType.ANCIEN_REGIME_LOCAL_ALSACE_MOSELLE_185;}

@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ANCIENNE_UNITE_DE_MESURE_DE_LA_QUOTITE_DE_TRAVAIL_181 extends Rubrique { final RubriqueType type = RubriqueType.ANCIENNE_UNITE_DE_MESURE_DE_LA_QUOTITE_DE_TRAVAIL_181;}

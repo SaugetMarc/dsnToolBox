@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ANCIEN_SALAIRE_DE_REFERENCE_PORTE_PAR_LE_CONTRAT_184 extends Rubrique { final RubriqueType type = RubriqueType.ANCIEN_SALAIRE_DE_REFERENCE_PORTE_PAR_LE_CONTRAT_184;}

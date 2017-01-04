@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class PROFONDEUR_DE_RECALCUL_DE_LA_PAIE__201 extends Rubrique { final RubriqueType type = RubriqueType.PROFONDEUR_DE_RECALCUL_DE_LA_PAIE__201;}

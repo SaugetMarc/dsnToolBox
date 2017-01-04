@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class SALARIE_A_TEMPS_PARTIEL_COTISANT_A_TEMPS_PLEIN__168 extends Rubrique { final RubriqueType type = RubriqueType.SALARIE_A_TEMPS_PARTIEL_COTISANT_A_TEMPS_PLEIN__168;}

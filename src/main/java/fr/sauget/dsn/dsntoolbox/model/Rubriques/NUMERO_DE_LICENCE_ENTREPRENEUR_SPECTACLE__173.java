@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class NUMERO_DE_LICENCE_ENTREPRENEUR_SPECTACLE__173 extends Rubrique { final RubriqueType type = RubriqueType.NUMERO_DE_LICENCE_ENTREPRENEUR_SPECTACLE__173;}

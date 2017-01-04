@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class TYPE_DE_COMPOSANT_DE_BASE_ASSUJETTIE_296 extends Rubrique { final RubriqueType type = RubriqueType.TYPE_DE_COMPOSANT_DE_BASE_ASSUJETTIE_296;}

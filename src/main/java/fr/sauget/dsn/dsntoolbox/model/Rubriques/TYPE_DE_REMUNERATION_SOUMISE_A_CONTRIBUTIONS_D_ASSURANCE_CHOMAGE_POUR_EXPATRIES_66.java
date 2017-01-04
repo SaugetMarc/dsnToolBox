@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class TYPE_DE_REMUNERATION_SOUMISE_A_CONTRIBUTIONS_D_ASSURANCE_CHOMAGE_POUR_EXPATRIES_66 extends Rubrique { final RubriqueType type = RubriqueType.TYPE_DE_REMUNERATION_SOUMISE_A_CONTRIBUTIONS_D_ASSURANCE_CHOMAGE_POUR_EXPATRIES_66;}

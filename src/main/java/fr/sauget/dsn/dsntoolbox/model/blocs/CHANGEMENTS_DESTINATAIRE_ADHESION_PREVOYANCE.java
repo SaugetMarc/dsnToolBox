@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.blocs;public class CHANGEMENTS_DESTINATAIRE_ADHESION_PREVOYANCE  extends Bloc { final BlocType typeBloc = BlocType.CHANGEMENTS_DESTINATAIRE_ADHESION_PREVOYANCE;}

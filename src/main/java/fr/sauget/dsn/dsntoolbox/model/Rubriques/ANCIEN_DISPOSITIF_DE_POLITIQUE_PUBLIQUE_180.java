@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ANCIEN_DISPOSITIF_DE_POLITIQUE_PUBLIQUE_180 extends Rubrique { final RubriqueType type = RubriqueType.ANCIEN_DISPOSITIF_DE_POLITIQUE_PUBLIQUE_180;}

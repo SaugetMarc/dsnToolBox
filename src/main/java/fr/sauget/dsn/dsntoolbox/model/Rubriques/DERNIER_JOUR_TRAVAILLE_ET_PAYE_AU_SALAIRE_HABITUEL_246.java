@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class DERNIER_JOUR_TRAVAILLE_ET_PAYE_AU_SALAIRE_HABITUEL_246 extends Rubrique { final RubriqueType type = RubriqueType.DERNIER_JOUR_TRAVAILLE_ET_PAYE_AU_SALAIRE_HABITUEL_246;}

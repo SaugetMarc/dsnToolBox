@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ANCIEN_CODE_CAISSE_PROFESSIONNELLE_DE_CONGES_PAYES_197 extends Rubrique { final RubriqueType type = RubriqueType.ANCIEN_CODE_CAISSE_PROFESSIONNELLE_DE_CONGES_PAYES_197;}

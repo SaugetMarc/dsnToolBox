@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class EFFECTIF_MOYEN_DE_L_ENTREPRISE_AU_31_DECEMBRE_50 extends Rubrique { final RubriqueType type = RubriqueType.EFFECTIF_MOYEN_DE_L_ENTREPRISE_AU_31_DECEMBRE_50;}

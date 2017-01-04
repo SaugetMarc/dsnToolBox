@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class IDENTIFIANT_TECHNIQUE_AFFILIATION__295 extends Rubrique { final RubriqueType type = RubriqueType.IDENTIFIANT_TECHNIQUE_AFFILIATION__295;}

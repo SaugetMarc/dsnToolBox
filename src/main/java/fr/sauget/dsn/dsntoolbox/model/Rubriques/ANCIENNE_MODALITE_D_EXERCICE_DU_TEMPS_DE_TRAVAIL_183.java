@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ANCIENNE_MODALITE_D_EXERCICE_DU_TEMPS_DE_TRAVAIL_183 extends Rubrique { final RubriqueType type = RubriqueType.ANCIENNE_MODALITE_D_EXERCICE_DU_TEMPS_DE_TRAVAIL_183;}

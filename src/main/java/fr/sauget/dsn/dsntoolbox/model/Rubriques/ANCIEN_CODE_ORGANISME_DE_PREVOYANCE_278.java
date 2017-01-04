@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ANCIEN_CODE_ORGANISME_DE_PREVOYANCE_278 extends Rubrique { final RubriqueType type = RubriqueType.ANCIEN_CODE_ORGANISME_DE_PREVOYANCE_278;}

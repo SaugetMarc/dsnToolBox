@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class TAUX_DE_COTISATION_ACCIDENT_DU_TRAVAIL__167 extends Rubrique { final RubriqueType type = RubriqueType.TAUX_DE_COTISATION_ACCIDENT_DU_TRAVAIL__167;}

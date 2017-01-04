@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class CODE_DELEGATAIRE_DU_RISQUE_MALADIE__159 extends Rubrique { final RubriqueType type = RubriqueType.CODE_DELEGATAIRE_DU_RISQUE_MALADIE__159;}

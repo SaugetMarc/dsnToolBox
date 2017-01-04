@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class NUMERO__EXTENSION__NATURE__LIBELLE_DE_VOIE_307 extends Rubrique { final RubriqueType type = RubriqueType.NUMERO_EXTENSION_NATURE_LIBELLE_DE_VOIE_307;}

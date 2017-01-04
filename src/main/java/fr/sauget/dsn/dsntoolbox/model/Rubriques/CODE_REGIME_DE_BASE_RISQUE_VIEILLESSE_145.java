@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class CODE_REGIME_DE_BASE_RISQUE_VIEILLESSE_145 extends Rubrique { final RubriqueType type = RubriqueType.CODE_REGIME_DE_BASE_RISQUE_VIEILLESSE_145;}

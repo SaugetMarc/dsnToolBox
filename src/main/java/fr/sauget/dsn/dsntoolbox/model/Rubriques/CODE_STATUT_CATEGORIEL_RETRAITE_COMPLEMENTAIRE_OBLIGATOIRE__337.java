@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class CODE_STATUT_CATEGORIEL_RETRAITE_COMPLEMENTAIRE_OBLIGATOIRE__337 extends Rubrique { final RubriqueType type = RubriqueType.CODE_STATUT_CATEGORIEL_RETRAITE_COMPLEMENTAIRE_OBLIGATOIRE__337;}

@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class POSITIONNEMENT_DANS_LA_CONVENTION_COLLECTIVE__165 extends Rubrique { final RubriqueType type = RubriqueType.POSITIONNEMENT_DANS_LA_CONVENTION_COLLECTIVE__165;}

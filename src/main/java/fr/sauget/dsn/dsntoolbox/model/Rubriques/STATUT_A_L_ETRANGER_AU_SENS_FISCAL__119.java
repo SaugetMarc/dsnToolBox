@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class STATUT_A_L_ETRANGER_AU_SENS_FISCAL__119 extends Rubrique { final RubriqueType type = RubriqueType.STATUT_A_L_ETRANGER_AU_SENS_FISCAL__119;}

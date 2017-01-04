@@ -1,1 +1,0 @@
-package fr.sauget.dsn.dsntoolbox.model.Bloc;public class BONS_DE_SOUSCRIPTION_DE_PARTS_DE_CREATEUR_ENTREPRISE  extends Bloc { final BlocType typeBloc = BlocType.BONS_DE_SOUSCRIPTION_DE_PARTS_DE_CREATEUR_ENTREPRISE;}

@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class DATE_D_EFFET_DE_LA_CONVENTION_DE_GESTION_157 extends Rubrique { final RubriqueType type = RubriqueType.DATE_D_EFFET_DE_LA_CONVENTION_DE_GESTION_157;}

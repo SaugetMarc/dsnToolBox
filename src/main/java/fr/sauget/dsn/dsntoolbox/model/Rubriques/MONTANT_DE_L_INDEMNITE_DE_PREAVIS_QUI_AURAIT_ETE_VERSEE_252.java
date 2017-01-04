@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class MONTANT_DE_L_INDEMNITE_DE_PREAVIS_QUI_AURAIT_ETE_VERSEE_252 extends Rubrique { final RubriqueType type = RubriqueType.MONTANT_DE_L_INDEMNITE_DE_PREAVIS_QUI_AURAIT_ETE_VERSEE_252;}

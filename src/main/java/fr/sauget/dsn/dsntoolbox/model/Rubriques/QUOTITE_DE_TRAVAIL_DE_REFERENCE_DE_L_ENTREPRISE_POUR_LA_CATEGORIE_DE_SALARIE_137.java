@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class QUOTITE_DE_TRAVAIL_DE_REFERENCE_DE_L_ENTREPRISE_POUR_LA_CATEGORIE_DE_SALARIE_137 extends Rubrique { final RubriqueType type = RubriqueType.QUOTITE_DE_TRAVAIL_DE_REFERENCE_DE_L_ENTREPRISE_POUR_LA_CATEGORIE_DE_SALARIE_137;}

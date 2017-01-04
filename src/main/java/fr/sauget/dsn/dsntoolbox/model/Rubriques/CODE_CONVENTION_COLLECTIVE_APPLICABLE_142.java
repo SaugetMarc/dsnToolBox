@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class CODE_CONVENTION_COLLECTIVE_APPLICABLE_142 extends Rubrique { final RubriqueType type = RubriqueType.CODE_CONVENTION_COLLECTIVE_APPLICABLE_142;}

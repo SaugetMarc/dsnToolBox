@@ -1,8 +1,8 @@
-fichier = open("type.txt",'r')
+fichier = open("rubriques.txt",'r')
 
 lines = fichier.readlines()
 
-pack = "package fr.sauget.dsn.dsntoolbox.model.Bloc;"
+pack = "package fr.sauget.dsn.dsntoolbox.model.Rubriques;"
 
 
 for l in lines:

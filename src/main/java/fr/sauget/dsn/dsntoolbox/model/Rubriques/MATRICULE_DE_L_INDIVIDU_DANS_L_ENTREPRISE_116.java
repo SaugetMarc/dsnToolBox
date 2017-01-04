@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class MATRICULE_DE_L_INDIVIDU_DANS_L_ENTREPRISE_116 extends Rubrique { final RubriqueType type = RubriqueType.MATRICULE_DE_L_INDIVIDU_DANS_L_ENTREPRISE_116;}

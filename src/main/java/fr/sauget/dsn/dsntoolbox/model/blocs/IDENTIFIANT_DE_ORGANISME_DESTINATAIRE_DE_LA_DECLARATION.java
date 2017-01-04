@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.blocs;public class IDENTIFIANT_DE_ORGANISME_DESTINATAIRE_DE_LA_DECLARATION  extends Bloc { final BlocType typeBloc = BlocType.IDENTIFIANT_DE_ORGANISME_DESTINATAIRE_DE_LA_DECLARATION;}

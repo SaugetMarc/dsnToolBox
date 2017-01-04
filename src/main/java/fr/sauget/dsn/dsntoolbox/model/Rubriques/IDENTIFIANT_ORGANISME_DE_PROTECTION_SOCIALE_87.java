@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class IDENTIFIANT_ORGANISME_DE_PROTECTION_SOCIALE_87 extends Rubrique { final RubriqueType type = RubriqueType.IDENTIFIANT_ORGANISME_DE_PROTECTION_SOCIALE_87;}

@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class CODE_ENVOI_DU_FICHIER_D_ESSAI_OU_REEL_5 extends Rubrique { final RubriqueType type = RubriqueType.CODE_ENVOI_DU_FICHIER_D_ESSAI_OU_REEL_5;}

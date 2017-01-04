@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class ENTITE_D_AFFECTATION_DES_OPERATIONS_77 extends Rubrique { final RubriqueType type = RubriqueType.ENTITE_D_AFFECTATION_DES_OPERATIONS_77;}

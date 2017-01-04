@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class CODE_ORGANISME_D_AFFILIATION_A_L_ASSURANCE_MALADIE__289 extends Rubrique { final RubriqueType type = RubriqueType.CODE_ORGANISME_D_AFFILIATION_A_L_ASSURANCE_MALADIE__289;}

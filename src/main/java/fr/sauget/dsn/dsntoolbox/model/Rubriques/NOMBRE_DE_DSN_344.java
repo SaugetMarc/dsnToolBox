@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class NOMBRE_DE_DSN_344 extends Rubrique { final RubriqueType type = RubriqueType.NOMBRE_DE_DSN_344;}

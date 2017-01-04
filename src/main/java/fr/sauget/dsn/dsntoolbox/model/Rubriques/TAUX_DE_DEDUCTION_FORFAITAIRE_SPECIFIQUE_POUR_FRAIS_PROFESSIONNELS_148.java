@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class TAUX_DE_DEDUCTION_FORFAITAIRE_SPECIFIQUE_POUR_FRAIS_PROFESSIONNELS_148 extends Rubrique { final RubriqueType type = RubriqueType.TAUX_DE_DEDUCTION_FORFAITAIRE_SPECIFIQUE_POUR_FRAIS_PROFESSIONNELS_148;}

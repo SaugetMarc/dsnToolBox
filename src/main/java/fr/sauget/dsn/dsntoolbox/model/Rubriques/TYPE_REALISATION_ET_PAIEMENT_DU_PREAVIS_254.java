@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class TYPE_REALISATION_ET_PAIEMENT_DU_PREAVIS_254 extends Rubrique { final RubriqueType type = RubriqueType.TYPE_REALISATION_ET_PAIEMENT_DU_PREAVIS_254;}

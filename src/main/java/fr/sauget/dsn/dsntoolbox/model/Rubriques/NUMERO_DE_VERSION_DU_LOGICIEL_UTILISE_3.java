@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class NUMERO_DE_VERSION_DU_LOGICIEL_UTILISE_3 extends Rubrique { final RubriqueType type = RubriqueType.NUMERO_DE_VERSION_DU_LOGICIEL_UTILISE_3;}

@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class CODE_AFFECTATION_ASSURANCE_CHOMAGE_152 extends Rubrique { final RubriqueType type = RubriqueType.CODE_AFFECTATION_ASSURANCE_CHOMAGE_152;}

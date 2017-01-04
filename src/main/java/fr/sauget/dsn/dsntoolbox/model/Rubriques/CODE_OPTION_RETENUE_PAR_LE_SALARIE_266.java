@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class CODE_OPTION_RETENUE_PAR_LE_SALARIE_266 extends Rubrique { final RubriqueType type = RubriqueType.CODE_OPTION_RETENUE_PAR_LE_SALARIE_266;}

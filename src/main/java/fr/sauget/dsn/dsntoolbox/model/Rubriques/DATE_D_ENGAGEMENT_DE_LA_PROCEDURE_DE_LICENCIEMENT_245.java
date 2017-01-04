@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class DATE_D_ENGAGEMENT_DE_LA_PROCEDURE_DE_LICENCIEMENT_245 extends Rubrique { final RubriqueType type = RubriqueType.DATE_D_ENGAGEMENT_DE_LA_PROCEDURE_DE_LICENCIEMENT_245;}

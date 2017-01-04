@@ -1,0 +1,1 @@
+package fr.sauget.dsn.dsntoolbox.model.Rubriques;public class NOM_ET_PRENOM_DE_LA_PERSONNE_A_CONTACTER_20 extends Rubrique { final RubriqueType type = RubriqueType.NOM_ET_PRENOM_DE_LA_PERSONNE_A_CONTACTER_20;}
